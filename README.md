@@ -94,7 +94,7 @@ http://localhost:12395/dav
 ## 🛠️ 技术栈
 
 ### 后端
-- **语言**: Go 1.24
+- **语言**: Go 1.25
 - **框架**: Gin
 - **数据库**: SQLite (GORM)
 - **认证**: JWT
@@ -107,7 +107,7 @@ http://localhost:12395/dav
 ## 📦 开发部署
 
 ### 环境要求
-- Go 1.24+
+- Go 1.25+
 - Node.js 22+
 - npm 或 yarn 或 pnpm
 
