@@ -113,7 +113,7 @@ http://localhost:12395/dav
 
 ### 1. 克隆项目
 ```bash
-git clone https://github.com/xxcheng123/cloudpan189-share.git
+git clone https://github.com/pp325pp325/cloudpan189-share.git
 cd cloudpan189-share
 ```
 
